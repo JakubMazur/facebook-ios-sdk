@@ -7,3 +7,11 @@
 By using this you agreed on this terms: https://github.com/facebook/facebook-ios-sdk/blob/master/LICENSE
 
 Cocoapods support: https://github.com/facebook/facebook-ios-sdk
+
+## USAGE:
+
+In **Cartfile** add this line:
+
+`binary "https://raw.githubusercontent.com/JakubMazur/facebook-ios-sdk/master/facebookSDK.json"`
+
+Then it will work like any other carthage dependency.
